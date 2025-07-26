@@ -47,6 +47,10 @@ I'm a passionate **AI/ML Engineer** specializing in **Deep Learning** and **MLOp
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
+
+### Portfolio:-
+https://ani-2003-hd.github.io/Aniruddha-portfolio/
+
 </div>
 
 ---
@@ -101,7 +105,7 @@ TMDB-based movie recommendation using cosine similarity
 
 ### 🎓 Academic Background
 - **Bachelor of Engineering** - Artificial Intelligence and Machine Learning
-- **Jyothy Institute of Technology, Bengaluru** (2021 - Present)
+- **Jyothy Institute of Technology, Bengaluru** (2021 - 2025)
 
 ### 🏅 Professional Certifications
 ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep_Learning_Specialization-yellow?style=flat-square&logo=deeplearning-ai&logoColor=black)
