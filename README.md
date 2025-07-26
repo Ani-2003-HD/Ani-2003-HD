@@ -185,16 +185,6 @@ TMDB-based movie recommendation using cosine similarity
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ani-2003-HD&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
-
----
-
-<div align="center">
-  
-### 🐍 Snake Animation
-![Snake Animation](https://github.com/Ani-2003-HD/Ani-2003-HD/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
